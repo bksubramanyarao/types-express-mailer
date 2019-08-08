@@ -6,7 +6,7 @@
   "types": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bksubramanyarao/lapd-list-all-package-dependencies.git"
+    "url": "https://github.com/bksubramanyarao/types-express-mailer.git"
   },
   "scripts": {
     "build": "tsc"
