@@ -1,0 +1,23 @@
+{
+  "name": "@types/express-mailer",
+  "version": "1.0.0",
+  "description": "typescript support for express-mailer",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bksubramanyarao/lapd-list-all-package-dependencies.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "expressjs",
+    "express-mailer"
+  ],
+  "author": "Subramanya Rao",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
